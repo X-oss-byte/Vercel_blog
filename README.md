@@ -260,3 +260,7 @@ Configure how the visualization embed displays by passing the options below.
 // Display in visualization mode without any controls
 <Viz id="5c325385-a0f4-4eaa-b215-712424369cc2" title="Data fetching modeled as a statechart." controls="0" />
 ```
+______
+</changelog>readme
+<https://nextjs.org/docs>
+<https://vercel.com/docs>
